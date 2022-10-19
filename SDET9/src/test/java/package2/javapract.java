@@ -14,11 +14,10 @@ public class javapract {
 					a[i]=a[j];
 					a[j]=temp;
 				}
-				
 			}
 		}
      System.out.println(Arrays.toString(a));
-     
+     System.out.println(Arrays.toString(a));
      
 	}
 
